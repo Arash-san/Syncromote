@@ -1,2 +1,2 @@
 # Syncromote
-Syncromote is a remote app that allows you to sync your input device to other devices on a network
+This is a sub repo of [Syncromote project](https://github.com/rowanyan/Syncromote)
